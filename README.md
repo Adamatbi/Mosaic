@@ -1,5 +1,5 @@
 # Mosaic 
-Downloads photos from instagram account and stitches into a colage in the shape of a photo.
+Downloads photos from instagram account and stitches into a collage in the shape of a photo.
 
 uses https://github.com/rarcega/instagram-scraper to get photos
 
